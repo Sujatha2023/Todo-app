@@ -1,6 +1,6 @@
 # Todo-app
 
-#Languages Used:
+# Languages Used
  HTML, CSS, JavaScript
 # Project Overview
 
@@ -19,7 +19,9 @@ It allows adding, deleting, and managing todos with an interactive interface.
  5. 🔄 Data stays saved using Local Storage, even after refreshing the page
 # APIs Used
  🕒 Date API (JavaScript Date Object): To handle and display deadlines.
+ 
  💾 Local Storage API: To store todos in the browser so they don’t disappear on refresh.
+ 
  ⚡ DOM Manipulation API: For dynamically adding and deleting tasks.
 
 # output
